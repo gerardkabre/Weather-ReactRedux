@@ -16,3 +16,7 @@ export function fetchWeather(city) {
     };
 } 
 
+
+
+
+
